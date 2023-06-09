@@ -10,4 +10,7 @@
 - Without killing the above operation, run 'npm start' in a simultaneous terminal to open the react app on to the browser.
 - Then you are good to go.
 
+# Note
+- If you get error in connecting to the database, try changing the port number.
+
 ### Thank you.
